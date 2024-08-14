@@ -3,8 +3,8 @@
 #include <DHT.h>                // Include the DHT sensor library
 
 // Wi-Fi credentials
-const char* ssid = "RRastin";
-const char* password = "rastin00000";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // MQTT broker details
 const char* mqtt_server = "broker.hivemq.com"; 
