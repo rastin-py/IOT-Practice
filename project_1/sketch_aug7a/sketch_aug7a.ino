@@ -8,8 +8,8 @@
 #define DHTTYPE DHT11
 
 // WiFi credentials
-const char* ssid = "RRastin";
-const char* password = "rastin00000";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // Initialize DHT sensor and WiFi server
 DHT dht(DHTPIN, DHTTYPE);
