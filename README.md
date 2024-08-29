@@ -18,7 +18,7 @@ Show temperature and humidity on Node-Red UI.
 
 
 ## Project 3
-show temperature and humidity on Thingspeak and use Matlab Analysis and Visualisation.
+Show temperature and humidity on Thingspeak and use Matlab Analysis and Visualisation.
 I had help from https://www.youtube.com/watch?v=5cRE8canHHU.
 
 ![image](https://github.com/user-attachments/assets/91faad34-1b7f-4117-a26b-66f85ccabef7)
