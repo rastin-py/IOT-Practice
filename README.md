@@ -1,5 +1,5 @@
 # IOT-Practice
-Several IOT projects as an parctice for Internet of Things course at Maharat Sabz institution by [Dr. Hashem Mirbahari](https://www.linkedin.com/in/seyed-hashem-mirbahari/?originalSubdomain=ir), with the supervison of [Prof. Asadollah Shahbahrami](https://scholar.google.com/citations?user=RbUZMnEAAAAJ&hl=en), presented in Summer 2024.
+Several IOT projects as an parctice for Internet of Things course at Maharat Sabz institution by [Dr. Seyed Hashem Mirbahari](https://www.linkedin.com/in/seyed-hashem-mirbahari/?originalSubdomain=ir), with the supervison of [Prof. Asadollah Shahbahrami](https://scholar.google.com/citations?user=RbUZMnEAAAAJ&hl=en), presented in Summer 2024.
 
 All Projects are done using a Node-MCU esp8266 and DHT11 sensor.
 
